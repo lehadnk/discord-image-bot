@@ -2,7 +2,6 @@ const ImageRepositoryError = require("./ImageRepositoryError");
 
 let images = {
     "shadow priest elf female": [
-        "https://pre00.deviantart.net/d68c/th/pre/i/2014/271/5/e/shadow_priest_by_serraarc-d80t8qh.jpg",
         "https://pre00.deviantart.net/62d2/th/pre/i/2017/018/9/6/lottery__shadow_priest_by_masta_shivo-davvnxo.jpg",
         "https://pre00.deviantart.net/5987/th/pre/i/2018/108/0/d/shadow_priest_by_antheiavaulor-dc962hq.jpg",
         "https://pre00.deviantart.net/0cd5/th/pre/f/2015/270/b/0/cal_freakout_by_hazelgee-d9b3oat.jpg",
@@ -15,6 +14,7 @@ let images = {
         "https://pre00.deviantart.net/a16b/th/pre/f/2011/250/b/4/blood_elf_spriest_in_t5_by_iidxgirl-d497p9e.jpg"
     ],
     "shadow priest draenei female": [
+        "https://pre00.deviantart.net/d68c/th/pre/i/2014/271/5/e/shadow_priest_by_serraarc-d80t8qh.jpg",
         "http://img0.reactor.cc/pics/post/full/World-of-Warcraft-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B5-priest-1556278.jpeg",
         "https://orig00.deviantart.net/159c/f/2016/103/e/e/hearthstone___embrace_the_shadow_by_rzanchetin-d9ysj4b.png",
         "https://pre00.deviantart.net/db2f/th/pre/f/2018/100/5/9/darahja_by_hobo_cat-dc8d2tu.png",
