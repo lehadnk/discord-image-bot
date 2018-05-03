@@ -103,7 +103,7 @@ let images = {
         "https://pre00.deviantart.net/be41/th/pre/i/2015/308/d/e/the_burning_rage_by_tamplierpainter-d9fhuf9.jpg",
         "https://pre00.deviantart.net/9bb6/th/pre/i/2015/232/b/1/jaina___the_shattered_soul_by_tamplierpainter-d96fhpa.jpg",
         "https://pre00.deviantart.net/530c/th/pre/i/2011/225/2/2/jaina_proudmoore_by_tamplierpainter-d46e6ke.jpg",
-        "https://pre00.deviantart.net/b483/th/pre/f/2011/279/3/e/blood_elf___mage_by_tamplierpainter-d4c22rh.jpg"
+        "https://pre00.deviantart.net/b483/th/pre/f/2011/279/3/e/blood_elf___mage_by_tamplierpainter-d4c22rh.jpg",
         "https://pre00.deviantart.net/0ab7/th/pre/i/2012/161/7/a/shandris_feathermoon_by_tamplierpainter-d52y6sy.jpg",
         "https://img00.deviantart.net/ca8d/i/2011/078/0/0/garrosh_hellscream_by_tamplierpainter-d3bypro.jpg",
         "https://img00.deviantart.net/8bef/i/2011/183/6/2/ragnaros_by_tamplierpainter-d3kqfht.jpg",
@@ -145,9 +145,8 @@ let images = {
         "https://pre00.deviantart.net/6e82/th/pre/f/2011/242/5/e/dranei_priest_in_t6_by_iidxgirl-d48b8qs.jpg",
         "https://pre00.deviantart.net/b53d/th/pre/f/2010/062/0/1/draenei_priest_wallpaper_by_cazylein.jpg",
         "https://orig00.deviantart.net/1157/f/2010/110/e/d/edefce1c0d426ede2af24a1b9f0b557a.jpg",
-
     ]
-}
+};
 
 class StaticImageRepository {
     getRandomImageByTag(tagList) {
