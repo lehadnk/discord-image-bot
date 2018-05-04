@@ -125,7 +125,7 @@ let images = {
         "https://cdn.discordapp.com/attachments/311633413805441024/442039308275417109/tumblr_ou6iexa87s1w1o9b2o1_1280.png",
         "https://cdn.discordapp.com/attachments/311633413805441024/442039450684489738/tumblr_p6egorHzYx1vjc17uo1_540.png",
     ],
-    "troll": [
+    "troll male": [
         "https://i.pinimg.com/originals/5b/7d/36/5b7d36eec98ef53ea165791aab42310a.jpg",
         "https://i.pinimg.com/736x/77/1c/dd/771cddf1c453e422303c37e1ad024622--horde-fantasy-creatures.jpg",
         "https://pre00.deviantart.net/9184/th/pre/i/2015/174/e/5/troll_headhunter_by_samarskiy-d8170k2.jpg",

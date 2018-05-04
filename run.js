@@ -15,9 +15,11 @@ const Mappings = {
     "!шпдренейка": "shadow priest draenei female",
     "!девочкаприст": "priest female",
     "!мальчикприст": "priest male",
-    "!тролляша": "troll",
+    "!тролляша": "troll male",
     "!рандомарт": "",
-    "!дренеечка": "draenei female"
+    "!дренеечка": "draenei female",
+    "!тролляшка": "troll female",
+    "!ворген": "worgen"
 }
 
 function sendImage(channel, imgUrl) {
